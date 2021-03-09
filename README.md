@@ -1,2 +1,3 @@
 # hello-world
 Test
+I'm trying to learn how to setup a proper programming environment from github, seems quite complicated at the beggining tho...
